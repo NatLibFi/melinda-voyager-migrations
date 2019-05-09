@@ -1,0 +1,39 @@
+{
+  "name": "fenni-asteri-migration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *.spec.js",
+    "test:watch": "mocha *.spec.js -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^1.2.0",
+    "debug": "^2.6.8",
+    "es6-promisify": "^5.0.0",
+    "form-data": "^2.1.4",
+    "iconv": "^2.2.3",
+    "isomorphic-fetch": "^2.2.1",
+    "lodash": "^4.17.4",
+    "lodash.flatmap": "^4.5.0",
+    "lodash.identity": "^3.0.0",
+    "marc-record-converters": "https://github.com/natlibfi/marc-record-converters",
+    "marc-record-js": "^0.3.1",
+    "marc-record-serializers": "https://github.com/petuomin/marc-record-serializers",
+    "melinda-api-client": "^1.1.0",
+    "memoize-fs": "^1.1.0",
+    "moment": "^2.18.1",
+    "node-fetch": "^1.7.0",
+    "oracledb": "^1.13.1",
+    "string.prototype.at": "^0.2.0",
+    "xml2js": "^0.4.17",
+    "@natlibfi/melinda-marc-record-utils": "^1.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0",
+    "sinon": "^2.2.0"
+  }
+}
