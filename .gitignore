@@ -1,2 +1,10 @@
 node_modules
+dist
+tnsnames.ora
+sqlnet.ora
+.iterator*
+npm-debug.log
 .env
+instantclient
+wallet
+data
