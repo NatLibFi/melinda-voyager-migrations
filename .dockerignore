@@ -1,0 +1,17 @@
+.env
+dist
+node_modules
+.travis.yml
+.drone.yml
+.git
+tnsnames.ora
+sqlnet.ora
+.auth-sync-service-iterators
+.*stash_*
+.*-cursors.json
+migrations/*iterator*
+npm-debug.log
+aleph-changelistener-cursors.json
+changesqueue
+z106_stash*
+wallet

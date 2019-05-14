@@ -1,0 +1,15 @@
+ALEPH =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = %PROTOCOL%)(HOST = %ALEPH_HOST%)(PORT = %PORT%))
+    (CONNECT_DATA =
+      (SID = %ALEPH_SID%)
+    )    
+  )
+
+VOYAGER =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = %PROTOCOL%)(HOST = %VOYAGER_HOST%)(PORT = %PORT%))
+    (CONNECT_DATA =
+      (SID = %VOYAGER_SID%)
+    )    
+  )
