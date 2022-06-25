@@ -42,7 +42,7 @@
     "melinda-api-client": "git+https://github.com/natlibfi/melinda-api-client.git#stable",
     "memoize-fs": "^1.1.0",
     "moment": "^2.18.1",
-    "node-fetch": "^1.7.0",
+    "node-fetch": "^2.6.7",
     "oracledb": "^3.1.2",
     "string.prototype.at": "^0.2.0",
     "winston": "2.3.1",
